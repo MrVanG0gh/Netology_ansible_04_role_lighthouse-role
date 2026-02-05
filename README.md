@@ -1,9 +1,8 @@
-Lighthouse-role
 =======
-Role Name
+Lighthouse-role
 =========
 
-Lighthouse-role.
+Installs Lighthouse.
 
 Requirements
 ------------
