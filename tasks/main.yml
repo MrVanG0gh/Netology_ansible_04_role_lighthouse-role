@@ -12,7 +12,7 @@
   become: true
   ansible.builtin.git:
     repo: "{{ lighthouse_vcs }}"
-    version: master
+    version: "{{ lighthouse_version }}"
     dest: "{{ lighthouse_location_dir }}"
 - name: Lighthouse | Create lighthouse config
   become: true

@@ -1,3 +1,4 @@
 ---
-clickhouse_user: user
-clickhouse_password: 1234
+lighthouse_version: "latest"
+install_path: "/usr/local/bin"
+node_path: "/usr/bin/node"
