@@ -1,4 +1,4 @@
-lighthouse-role
+Lighthouse-role
 =======
 Role Name
 =========
