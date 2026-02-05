@@ -15,8 +15,11 @@ Role Variables
 --------------
 
 lighthouse_vcs: https://github.com/VKCOM/lighthouse.git
+
 lighthouse_dir: /var/lib/lighthouse
+
 lighthouse_access_log_name: lighthouse_access
+
 lighthouse_version: "latest"
 
 Dependencies
