@@ -1,0 +1,2 @@
+# Netology_ansible_04_role_lighthouse-role
+lighthouse-role
