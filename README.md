@@ -1,5 +1,5 @@
 =======
-Lighthouse-role
+lighthouse-role
 =========
 
 Installs Lighthouse.
@@ -13,13 +13,12 @@ Requirements
 Role Variables
 --------------
 
-lighthouse_vcs: https://github.com/VKCOM/lighthouse.git
-
-lighthouse_dir: /var/lib/lighthouse
-
-lighthouse_access_log_name: lighthouse_access
-
-lighthouse_version: "latest"
+|-------------------------------|----------------------------------------------|
+|   lighthouse_vcs              | repo address                                 |
+|   lighthouse_dir              | lighthouse dir (/var/lib/lighthouse)         |
+|   lighthouse_access_log_name  | a name for lighthouse access log             |
+|   lighthouse_version          | version                                      |
+--------------------------------|----------------------------------------------|
 
 Dependencies
 ------------
