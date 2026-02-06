@@ -1,4 +1,4 @@
-lighthouse-role
+lighthouse
 =========
 
 Installs Lighthouse.
@@ -31,7 +31,7 @@ Example Playbook
 ```
 - hosts: servers
   roles:
-    - role: Lighthouse-role
+    - role: lighthouse
       lighthouse_version: "8.0.0"
 ```
 License
