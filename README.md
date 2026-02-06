@@ -1,4 +1,3 @@
-=======
 lighthouse-role
 =========
 
