@@ -18,7 +18,7 @@ Role Variables
 |   lighthouse_dir              | lighthouse dir (/var/lib/lighthouse)         |
 |   lighthouse_access_log_name  | a name for lighthouse access log             |
 |   lighthouse_version          | version                                      |
---------------------------------|----------------------------------------------|
+|-------------------------------+----------------------------------------------|
 
 Dependencies
 ------------
